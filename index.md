@@ -20,7 +20,7 @@ sections:
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
-  - title: lorem-ipsum
+  - title: logo
     section_id: logo
     image_alt: iseedeadpixels logo - cinematography
     type: section_content
