@@ -7,11 +7,6 @@ sections:
     image: images/giorgos_chloros.jpg
     image_alt: 'Giorgos Chloros, Cinematographer - Stockholm, Sweden'
     content: "Hello, my name is Giorgos and I am a cinematographer based in Stockholm. Originally from Greece, I\_have an educational background in Fine\nArts,\_with BFA and MFA studies in Greece, Italy and Sweden. I live in a red house in the Swedish countryside with my partner and our two sons. When I am not behind a camera or computer screen, chances are I’m somewhere in the forest picking mushrooms, chopping firewood or grilling sausages :)\n\nYou will not see any of my recent work here, because since the fall of 2016 all my energy and creativity goes to [dietdoctor.com](http://dietdoctor.com) where I work as a cinematographer and editor, focusing mainly on making the most amazing low-carb cooking videos.\n\nAs a cinematographer I have an eye for naturally motivated lighting and inspired movement.\_Having worked in documentaries, narrative, commercials, fashion, music and art projects, I am able to adapt and I am committed to exceeding the director’s vision with my photography.\n"
-  - title: Logo
-    section_id: logo
-    image_alt: iseedeadpixels logo - cinematography
-    type: section_content
-    image: images/logo_iseedeadpixels.png
   - title: Showreel
     section_id: Showreel
     type: section_content
@@ -24,6 +19,11 @@ sections:
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
+  - title: Logo
+    section_id: logo
+    image_alt: iseedeadpixels logo - cinematography
+    type: section_content
+    image: images/logo_iseedeadpixels.png
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
