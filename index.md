@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
+      value: Giorgos Chloros | Cinematographer based in Stockholm
     - name: 'twitter:description'
       value: The preview of the Vanilla theme
     - name: 'twitter:image'
