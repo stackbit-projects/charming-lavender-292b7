@@ -7,6 +7,12 @@ sections:
     subtitle: '### This is a super-cool hero subhead.'
     image: images/giorgos_chloros.jpg
     image_alt: Author avatar
+  - title: About me
+    section_id: About me
+    type: section_content
+    image: images/giorgos_chloros.jpg
+    image_alt: 'Giorgos Chloros, Cinematographer - Stockholm, Sweden'
+    content: "My name is Giorgos and I am a cinematographer based out of Stockholm. I was born in Greece and I\_have an educational background in Fine \nArts,\_with BFA and MFA studies in Greece, Italy and Sweden. I live in a red house in the Swedish countryside with my partner and our two sons. When I am not behind a camera or computer screen, chances are I’m somewhere in the forest picking mushrooms, chopping firewood or grilling sausages :)\n\nYou will not see any of my recent work here, because since the fall of 2016 all my energy and creativity goes to [dietdoctor.com](http://dietdoctor.com) where I work as a cinematographer and editor, focusing mainly on making the most amazing low-carb cooking videos.\n\nAs a cinematographer I have an eye for naturally motivated lighting and inspired movement.\_Having worked in documentaries, narrative, commercials, fashion, music and art projects, I am able to adapt and I am committed to exceeding the director’s vision with my photography.\n"
   - title: Text
     section_id: intro
     type: section_content
@@ -30,12 +36,6 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - title: About me
-    section_id: About me
-    type: section_content
-    image: images/giorgos_chloros.jpg
-    image_alt: 'Giorgos Chloros, Cinematographer - Stockholm, Sweden'
-    content: "My name is Giorgos and I am a cinematographer based out of Stockholm. I was born in Greece and I\_have an educational background in Fine \nArts,\_with BFA and MFA studies in Greece, Italy and Sweden. I live in a red house in the Swedish countryside with my partner and our two sons. When I am not behind a camera or computer screen, chances are I’m somewhere in the forest picking mushrooms, chopping firewood or grilling sausages :)\n\nYou will not see any of my recent work here, because since the fall of 2016 all my energy and creativity goes to [dietdoctor.com](http://dietdoctor.com) where I work as a cinematographer and editor, focusing mainly on making the most amazing low-carb cooking videos.\n\nAs a cinematographer I have an eye for naturally motivated lighting and inspired movement.\_Having worked in documentaries, narrative, commercials, fashion, music and art projects, I am able to adapt and I am committed to exceeding the director’s vision with my photography.\n"
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
