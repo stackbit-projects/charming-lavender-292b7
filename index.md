@@ -1,6 +1,11 @@
 ---
 title: Home
 sections:
+  - title: logo
+    section_id: logo
+    image_alt: iseedeadpixels logo - cinematography
+    type: section_content
+    image: images/logo_iseedeadpixels.png
   - title: About me
     section_id: About me
     type: section_content
@@ -20,11 +25,6 @@ sections:
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
-  - title: logo
-    section_id: logo
-    image_alt: iseedeadpixels logo - cinematography
-    type: section_content
-    image: images/logo_iseedeadpixels.png
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
