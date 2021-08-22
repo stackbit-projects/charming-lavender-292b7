@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: Giorgos Chloros | Cinematographer based in Stockholm
       keyName: property
     - name: 'og:description'
       value: The preview of the Vanilla theme
