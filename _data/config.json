@@ -53,5 +53,6 @@
             }
         ]
     },
-    "domain": "https://charming-lavender-292b7.netlify.app"
+    "domain": "https://charming-lavender-292b7.netlify.app",
+    "favicon": "images/favicon.ico"
 }
