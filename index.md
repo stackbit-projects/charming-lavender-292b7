@@ -38,7 +38,9 @@ seo:
       value: Giorgos Chloros | Cinematographer based in Stockholm
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: >-
+        Portfolio site of freelance cinematographer Giorgos Chloros in
+        Stockholm, Sweden. Showreel, links to projects and other work.
       keyName: property
     - name: 'og:image'
       value: images/giorgos_chloros.jpg
