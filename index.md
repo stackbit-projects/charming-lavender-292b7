@@ -55,7 +55,7 @@ seo:
         Portfolio site of freelance cinematographer Giorgos Chloros in
         Stockholm, Sweden. Showreel, links to projects and other work.
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: images/giorgos_chloros.jpg
       relativeUrl: true
 layout: advanced
 ---
