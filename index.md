@@ -16,8 +16,7 @@ sections:
     section_id: Showreel
     type: section_content
     content: >
-      ### Check out my showreel
-
+      ### Showreel
 
       <div style="padding:50% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/150076764?h=7c50cbaf4f&title=0&byline=0&portrait=0"
