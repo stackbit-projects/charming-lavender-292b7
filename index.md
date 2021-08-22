@@ -22,7 +22,7 @@ sections:
       src="https://player.vimeo.com/api/player.js"></script>
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    image_alt: iseedeadpixels
+    image_alt: 'iseedeadpixels logo - '
     type: section_content
     image: images/logo_iseedeadpixels.png
 seo:
