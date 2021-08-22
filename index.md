@@ -10,8 +10,8 @@ sections:
   - title: Showreel
     section_id: Showreel
     type: section_content
-    content: >+
-      ### Showreel
+    content: >
+      ### Check out my showreel
 
 
       <div style="padding:50% 0 0 0;position:relative;"><iframe
@@ -20,9 +20,6 @@ sections:
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
-
-
-
   - title: Logo
     section_id: logo
     image_alt: iseedeadpixels logo - cinematography
