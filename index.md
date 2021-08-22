@@ -21,7 +21,7 @@ sections:
       allowfullscreen></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: logo
     image_alt: iseedeadpixels logo - cinematography
     type: section_content
     image: images/logo_iseedeadpixels.png
