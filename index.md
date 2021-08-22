@@ -10,14 +10,9 @@ sections:
   - title: Showreel
     section_id: Showreel
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      ### Check out my showreel
 
-      ### This is an H3. Use it for subheads and subsections.
 
       <div style="padding:50% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/150076764?h=7c50cbaf4f&title=0&byline=0&portrait=0"
