@@ -51,7 +51,9 @@ seo:
     - name: 'twitter:title'
       value: Giorgos Chloros | Cinematographer based in Stockholm
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: >-
+        Portfolio site of freelance cinematographer Giorgos Chloros in
+        Stockholm, Sweden. Showreel, links to projects and other work.
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
