@@ -35,6 +35,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/logo_iseedeadpixels.png
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
