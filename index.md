@@ -60,7 +60,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  title: Stackbit Vanilla Theme
+  title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
