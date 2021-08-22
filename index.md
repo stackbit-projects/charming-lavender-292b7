@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: logo
+  - title: Logo
     section_id: logo
     image_alt: iseedeadpixels logo - cinematography
     type: section_content
