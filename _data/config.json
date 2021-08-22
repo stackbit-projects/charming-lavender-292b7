@@ -52,7 +52,15 @@
                 "new_window": true
             }
         ],
-        "links": []
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://charming-lavender-292b7.netlify.app",
     "favicon": "images/favicon.png"
