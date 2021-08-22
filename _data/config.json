@@ -2,7 +2,7 @@
     "title": "Giorgos Chloros | Cinematographer based in Stockholm",
     "header": {
         "title": "iseedeadpixels",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
