@@ -1,12 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/giorgos_chloros.jpg
-    image_alt: Author avatar
   - title: About me
     section_id: About me
     type: section_content
@@ -25,7 +19,12 @@ sections:
 
       ### This is an H3. Use it for subheads and subsections.
 
-      <div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/150076764?h=7c50cbaf4f&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+      <div style="padding:50% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/150076764?h=7c50cbaf4f&title=0&byline=0&portrait=0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
   description: The preview of the Vanilla theme
