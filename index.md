@@ -35,25 +35,7 @@ sections:
     type: section_content
     image: images/art.svg
     image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+    content: "My name is Giorgos and I am a cinematographer based out of Stockholm. I was born in Greece and I\_have an educational background in Fine \nArts,\_with BFA and MFA studies in Greece, Italy and Sweden. I live in a red house in the Swedish countryside with my partner and our two sons. When I am not behind a camera or computer screen, chances are I’m somewhere in the forest picking mushrooms, chopping firewood or grilling sausages :)\n\nYou will not see any of my recent work here, because since the fall of 2016 all my energy and creativity goes to [dietdoctor.com](http://dietdoctor.com) where I work as a cinematographer and editor, focusing mainly on making the most amazing low-carb cooking videos.\n\nAs a cinematographer I have an eye for naturally motivated lighting and inspired movement.\_Having worked in documentaries, narrative, commercials, fashion, music and art projects, I am able to adapt and I am committed to exceeding the director’s vision with my photography.\n"
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: >-
