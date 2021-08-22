@@ -31,7 +31,7 @@ sections:
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
   - title: About me
-    section_id: cat
+    section_id: About me
     type: section_content
     image: images/giorgos_chloros.jpg
     image_alt: 'Giorgos Chloros, Cinematographer - Stockholm, Sweden'
