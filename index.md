@@ -27,7 +27,9 @@ sections:
     image: images/logo_iseedeadpixels.png
 seo:
   title: Giorgos Chloros | Cinematographer based in Stockholm
-  description: The preview of the Vanilla theme
+  description: >-
+    Portfolio site of freelance cinematographer Giorgos Chloros in Stockholm,
+    Sweden. Showreel, links to projects and other work.
   extra:
     - name: 'og:type'
       value: website
